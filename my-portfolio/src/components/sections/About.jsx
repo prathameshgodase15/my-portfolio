@@ -188,12 +188,6 @@ const About = () => {
             {/* Experience timeline */}
             <div className="space-y-5">
               {[
-                 {
-                  year: "2026 - Present",
-                  title: "Trainee Software Engineer ",
-                  sub: "Sarvify Solutions Pvt. Ltd.",
-                  color: "violet",
-                },
                 {
                   year: "2023 - 2025",
                   title: "Masters of Computer Application",
